@@ -1,2 +1,2 @@
-ListaNumerica  = [ 19, 32 ,4, 7, 88, 67, 45 ]
-print ( classificado ( ListaNumerica ))
+ListaNumerica=[3,8,99,23,34,63,38]
+print(sort(ListaNumerica))
